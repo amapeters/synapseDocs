@@ -8,7 +8,7 @@ layout: article
 Wiki pages contain highly customized content including, but not limited to images, tables, code blocks, LaTeX formatted equations, and scholarly references. Synapse-specific widgets also allow users to embed dynamic content based on other resources stored in Synapse 
 
 ###Creating Wiki Content
-It is possible to have a Wiki page for every project, folder and file. For folders and files, the Wiki pages are not visible until there is content. 
+Wiki pages can be created for every project, folder and file. For folders and files, the Wiki pages are not visible until there is content. 
 
 {% tabs %} {% tab Command %}
 
